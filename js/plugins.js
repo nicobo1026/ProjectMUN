@@ -5,5 +5,8 @@ var $plugins =
 {"name":"Community_Basic","status":true,"description":"基本的なパラメーターを設定するプラグインです。","parameters":{"cacheLimit":"20","screenWidth":"816","screenHeight":"624","changeWindowWidthTo":"","changeWindowHeightTo":"","renderingMode":"auto","alwaysDash":"off"}},
 {"name":"--------------------------","status":true,"description":"---------------------------------------------------------------","parameters":{}},
 {"name":"LoadingExtend","status":true,"description":"ロード中画像拡張プラグイン","parameters":{"イメージ列数":"4","イメージ行数":"1","表示タイプ":"2","アニメーション間隔":"10","表示位置X座標":"","表示位置Y座標":"","待機フレーム数":"10","点滅なし":"ON"}},
-{"name":"WindowBlinkStop","status":true,"description":"ウィンドウ点滅停止プラグイン","parameters":{}}
+{"name":"WindowBlinkStop","status":true,"description":"ウィンドウ点滅停止プラグイン","parameters":{}},
+{"name":"MessageTriggerSe","status":true,"description":"メッセージ送りSEプラグイン","parameters":{"validateSwitchId":"0","soundEffect":"{\"name\":\"se_system_cursor\",\"volume\":\"40\",\"pitch\":\"100\",\"pan\":\"0\"}","doseContinueOnly":"true"}},
+{"name":"AudioStreaming","status":true,"description":"音声読み込みを高速化し、oggファイルのみを使用します。","parameters":{"mode":"10","deleteM4a":"false"}},
+{"name":"TMLinkCredit","status":true,"description":"タイトル画面にクレジットコマンドを追加します。\r\n制作スタッフの紹介をWebサイトへのリンク付きで表示できます。","parameters":{"credits":"[\"{\\\"name\\\":\\\"トリアコンタン 様\\\",\\\"help\\\":\\\"プラグイン素材\\\",\\\"url\\\":\\\"https://triacontane.blogspot.com/\\\"}\"]","versionText":"{\"text\":\"ver0.1.0β\",\"x\":\"0\",\"y\":\"0\",\"fontSize\":\"24\",\"textColor\":\"#ffffff\",\"outlineWidth\":\"4\",\"outlineColor\":\"#000000\"}","licenseText":"{\"text\":\"©Nagi 2020\",\"x\":\"0\",\"y\":\"592\",\"fontSize\":\"24\",\"textColor\":\"#ffffff\",\"outlineWidth\":\"4\",\"outlineColor\":\"#000000\"}","creditsCommand":"クレジット","itemHeight":"84","helpFontSize":"16","urlFontSize":"16","urlMaxLength":"50","useHelpWindow":"true","helpWindowText":"使用させていただいた素材の作者一覧です。\\n","titleCommandAlign":"center"}}
 ];
