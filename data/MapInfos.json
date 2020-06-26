@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":459,"scrollY":312.5},
-{"id":2,"expanded":false,"name":"Main menu","order":2,"parentId":0,"scrollX":459,"scrollY":312.5},
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":false,"name":"Main menu","order":2,"parentId":0,"scrollX":1139,"scrollY":705.5},
 {"id":3,"expanded":true,"name":"Chapter1","order":3,"parentId":0,"scrollX":459,"scrollY":312.5},
 {"id":4,"expanded":false,"name":"cp1 ストーリー","order":4,"parentId":3,"scrollX":459,"scrollY":312.5},
-{"id":5,"expanded":false,"name":"cp1 カレンダー","order":5,"parentId":3,"scrollX":459,"scrollY":312.5},
+{"id":5,"expanded":false,"name":"cp1 カレンダー","order":5,"parentId":3,"scrollX":832,"scrollY":640},
 {"id":6,"expanded":false,"name":"cp1 会議","order":6,"parentId":3,"scrollX":459,"scrollY":312.5}
 ]
